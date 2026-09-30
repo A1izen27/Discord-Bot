@@ -1,0 +1,17 @@
+{
+  "name": "genshin-helper-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Discord bot that answers Genshin Impact questions from the local data bundle.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
